@@ -44,4 +44,19 @@ I mean what the fuck does Syu mean, it looks like the peak of that one
 strange kink of making a Linux distro and everything in it **"cozy"**, like
 WHAT?!
 
+# Now real things!
+The OS can only boot in these specifications:
+
+1. with a BIOS, not UEFI.
+
+2. +1GB of RAM.
+
+3. +8GB of Storage.
+
+4. +16MB of VRAM.
+
+5. x86_64 processor.
+
+If these conditions doesnt exist, it wont be good to boot.
+
 **TBA**
