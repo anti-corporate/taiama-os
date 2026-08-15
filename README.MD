@@ -44,4 +44,4 @@ I mean what the fuck does Syu mean, it looks like the peak of that one
 strange kink of making a Linux distro and everything in it **"cozy"**, like
 WHAT?!
 
-#**TBA**
+**TBA**
